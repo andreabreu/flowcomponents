@@ -10,8 +10,7 @@ Required install: npm install mongodb --save
 
 Returned Object: 
 
-\`\`\`javascript
-
+```javascript
 {
 	"result": {
 	  "n": 1,
@@ -33,8 +32,7 @@ Returned Object:
 	"n": 1,
 	"ok": 1
   }
-
-\`\`\`
+```
 
 
 ## Update
@@ -51,10 +49,10 @@ Returned Object:
 - expects data to be an object
 - return a array of objects
 
-\`\`\`javascript
+```javascript
 {
 	"name": "Joseph",
 	"city": "São Paulo",
 	"age": 23
   }
-\`\`\`
+```
